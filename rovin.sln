@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rovin", "rovin\rovin.csproj", "{96743B46-D347-45CD-BEAC-50CC682F5F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96743B46-D347-45CD-BEAC-50CC682F5F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96743B46-D347-45CD-BEAC-50CC682F5F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96743B46-D347-45CD-BEAC-50CC682F5F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96743B46-D347-45CD-BEAC-50CC682F5F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3213BEA1-D1DE-469C-AB12-EAF326C369C2}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
