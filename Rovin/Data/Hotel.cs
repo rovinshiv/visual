@@ -12,6 +12,6 @@ namespace rovin.Data
 
         [ForeignKey("nameof(CountryId))")]
         public int CountryId { get; set; }
-        public Country Country { get; set; }
+        //public Country Country { get; set; }
     }
 }

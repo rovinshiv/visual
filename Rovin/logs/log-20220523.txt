@@ -1,0 +1,30 @@
+2022-05-23 16:42:48.348 -04:00 [INF] Now listening on: https://localhost:7264
+2022-05-23 16:42:48.467 -04:00 [INF] Now listening on: http://localhost:5092
+2022-05-23 16:42:48.479 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-23 16:42:48.483 -04:00 [INF] Hosting environment: Development
+2022-05-23 16:42:48.485 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\
+2022-05-23 16:54:43.931 -04:00 [INF] Now listening on: https://localhost:7264
+2022-05-23 16:54:43.995 -04:00 [INF] Now listening on: http://localhost:5092
+2022-05-23 16:54:44.004 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-23 16:54:44.009 -04:00 [INF] Hosting environment: Development
+2022-05-23 16:54:44.011 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\
+2022-05-23 16:54:58.710 -04:00 [INF] Now listening on: https://localhost:7264
+2022-05-23 16:54:58.772 -04:00 [INF] Now listening on: http://localhost:5092
+2022-05-23 16:54:58.782 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-23 16:54:58.784 -04:00 [INF] Hosting environment: Development
+2022-05-23 16:54:58.789 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\
+2022-05-23 17:00:36.528 -04:00 [INF] Now listening on: https://localhost:7264
+2022-05-23 17:00:36.596 -04:00 [INF] Now listening on: http://localhost:5092
+2022-05-23 17:00:36.603 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-23 17:00:36.606 -04:00 [INF] Hosting environment: Development
+2022-05-23 17:00:36.608 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\
+2022-05-23 17:08:49.701 -04:00 [INF] Now listening on: https://localhost:7264
+2022-05-23 17:08:49.851 -04:00 [INF] Now listening on: http://localhost:5092
+2022-05-23 17:08:49.866 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-23 17:08:49.875 -04:00 [INF] Hosting environment: Development
+2022-05-23 17:08:50.364 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\
+2022-05-23 17:10:21.556 -04:00 [INF] Now listening on: https://localhost:7264
+2022-05-23 17:10:21.706 -04:00 [INF] Now listening on: http://localhost:5092
+2022-05-23 17:10:21.766 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-23 17:10:21.793 -04:00 [INF] Hosting environment: Development
+2022-05-23 17:10:21.795 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\
