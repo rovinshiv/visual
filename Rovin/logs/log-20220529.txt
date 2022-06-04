@@ -1,0 +1,5 @@
+2022-05-29 20:14:07.141 -04:00 [INF] Now listening on: https://localhost:7264
+2022-05-29 20:14:07.245 -04:00 [INF] Now listening on: http://localhost:5092
+2022-05-29 20:14:07.275 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-29 20:14:07.277 -04:00 [INF] Hosting environment: Development
+2022-05-29 20:14:07.278 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\
