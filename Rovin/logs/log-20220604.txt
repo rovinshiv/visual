@@ -163,3 +163,8 @@ System.InvalidOperationException: A second operation was started on this context
 2022-06-04 12:26:23.537 -04:00 [INF] Application started. Press Ctrl+C to shut down.
 2022-06-04 12:26:23.541 -04:00 [INF] Hosting environment: Development
 2022-06-04 12:26:23.543 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\
+2022-06-04 12:40:24.167 -04:00 [INF] Now listening on: https://localhost:7264
+2022-06-04 12:40:24.266 -04:00 [INF] Now listening on: http://localhost:5092
+2022-06-04 12:40:24.283 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-04 12:40:24.284 -04:00 [INF] Hosting environment: Development
+2022-06-04 12:40:24.285 -04:00 [INF] Content root path: C:\Users\muthudharmalingam\Rovin\rovin\

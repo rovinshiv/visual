@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using rovin.Data;
 using rovin.Models.Country;
+using rovin.Models.Hotel;
 
 namespace rovin.Configurations
 {
@@ -14,6 +15,8 @@ namespace rovin.Configurations
             CreateMap<Country,UpdateCountry>().ReverseMap();
             //CreateMap<Country, GetHotelscs>().ReverseMap();
             CreateMap<Hotel, GetHotelscs>().ReverseMap();
+            CreateMap<Hotel, HotelDto>().ReverseMap();
+            CreateMap<Hotel, CreateHotelDto>().ReverseMap();
         }
 
     }
